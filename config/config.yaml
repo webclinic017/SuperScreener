@@ -1,0 +1,13 @@
+strategy_start_time: "09:29:40"
+strategy_entry_time: "09:30:00"
+share_price_min_threshold: 50
+share_price_max_threshold: 10000
+stop_loss: 1
+target1: .5
+target2: 1
+target3: 1.5
+capital: 10111
+buffer_entry: .1
+buffer_trigger: 0.05
+target1_quantity_pct: 0.7
+target2_rem_quantity_pct: 0.5
